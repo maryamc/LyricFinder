@@ -1,6 +1,6 @@
 # projectRehash aka Lyric Finder
 
-( The link to our original group repo which shows all our branches and commits: https://github.com/beandrea/projectRehash.git )
+( This repo is copied from our group repo for submission purposes. The link to our original group repo which shows all our branches and commits: https://github.com/beandrea/projectRehash.git )
 
 Our lyric finder app allows users to search for an artist and any song by that artist to veiw your results. 
 
