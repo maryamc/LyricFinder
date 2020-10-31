@@ -27,4 +27,3 @@ Contributers:
  
  These are our designated roles in the project, however we all collaborated towards to end to piece everything together. 
  
- The link to our original group repo which shows all our branches and commits: https://github.com/beandrea/projectRehash.git
